@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.suitability" name="Suitability" version="100.6.0" provider-name="robwebset">
 	<requires>
-		<import addon="xbmc.python" version="2.20.0"/>
-		<import addon="script.module.beautifulsoup" version="3.2.1"/>
+		<import addon="xbmc.python" version="3.0.0"/>
+		<import addon="script.module.beautifulsoup4" version="4.6.3"/>
 		<import addon="script.module.simplejson" version="3.3.0"/>
 	</requires>
   	<extension point="xbmc.python.script" library="default.py"/>
