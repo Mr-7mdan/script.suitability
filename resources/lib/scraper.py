@@ -5,7 +5,7 @@ import xbmc
 import xml.etree.ElementTree as ET
 import urllib
 import urllib2
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 # Import the common settings
 from settings import log
